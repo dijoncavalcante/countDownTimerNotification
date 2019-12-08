@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CountdownTimer</string>
+    <string name="notification_title">Chegou a hora de ir para casa!</string>
+
+    <string name="notification_text_15">Restam 15 minutos para bater o ponto.</string>
+    <string name="notification_text_10">Restam 10 minutos para bater o ponto.</string>
+    <string name="notification_text_5">Restam 5 minutos para bater o ponto.</string>
+    <string name="notification_text_2">Corra!!! Você ainda pode bater o ponto.</string>
+    <string name="notification_text_1">Acabaram os minutos restantes para bater o ponto.</string>
+    <string name="update">Update Notification</string>
+    <string name="ignore">Ignorar!</string>
+    <string name="notify_me">Notify Me!</string>
+    <string name="notification_updated">Notification Updated!</string>
+    <string name="notification_channel_name">Vazare Notification</string>
+    <string name="notification_channel_description">Notification from Vazare</string>
+</resources>
